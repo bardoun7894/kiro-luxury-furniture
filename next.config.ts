@@ -7,7 +7,7 @@ const nextConfig: NextConfig = {
   output: 'standalone',
   images: {
     domains: ['firebasestorage.googleapis.com', 'images.unsplash.com'],
-    formats: ['image/webp', 'image/avif'],
+    formats: ['image/webp', 'image/avif'] ,
   },
   experimental: {
     optimizeCss: true,
