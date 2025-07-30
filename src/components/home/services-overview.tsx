@@ -52,5 +52,3 @@ export function ServicesOverview() {
     </section>
   );
 }
-
-import { Palette, Hammer, Truck } from 'lucide-react';
