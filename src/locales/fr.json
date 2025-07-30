@@ -1,0 +1,94 @@
+{
+  "common": {
+    "loading": "Chargement...",
+    "error": "Une erreur s'est produite",
+    "retry": "Réessayer",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "add": "Ajouter",
+    "search": "Rechercher",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "close": "Fermer",
+    "confirm": "Confirmer"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets",
+    "contact": "Contact",
+    "dashboard": "Tableau de bord"
+  },
+  "hero": {
+    "title": "Kiro Mobilier de Luxe",
+    "subtitle": "Nous concevons et fabriquons des meubles de luxe qui reflètent votre style unique",
+    "cta": "Explorer notre collection"
+  },
+  "about": {
+    "title": "À propos de nous",
+    "description": "Chez Kiro Mobilier de Luxe, nous croyons que les meubles sont bien plus que de simples éléments de décoration. C'est le reflet de votre personnalité et de votre style de vie. Depuis notre création, nous nous engageons à offrir les plus hauts niveaux de qualité et d'artisanat dans chaque pièce que nous créons.",
+    "mission": "Notre mission",
+    "missionText": "Créer des meubles de luxe personnalisés qui répondent aux besoins uniques de nos clients tout en maintenant les normes les plus élevées de qualité et de design.",
+    "vision": "Notre vision",
+    "visionText": "Devenir la destination de choix pour les meubles de luxe personnalisés dans la région, reconnus pour l'innovation, la qualité et le service exceptionnel."
+  },
+  "services": {
+    "title": "Nos services",
+    "design": {
+      "title": "Design personnalisé",
+      "description": "Nous concevons des meubles personnalisés qui s'adaptent parfaitement à votre espace et à votre style"
+    },
+    "manufacturing": {
+      "title": "Fabrication haut de gamme",
+      "description": "Nous utilisons les meilleurs matériaux et techniques pour garantir une qualité exceptionnelle"
+    },
+    "installation": {
+      "title": "Installation professionnelle",
+      "description": "Notre équipe spécialisée assure une installation parfaite de chaque pièce"
+    }
+  },
+  "projects": {
+    "title": "Nos projets",
+    "subtitle": "Découvrez nos derniers projets de meubles de luxe personnalisés",
+    "viewAll": "Voir tous les projets",
+    "viewDetails": "Voir les détails",
+    "categories": {
+      "all": "Tous",
+      "living": "Salon",
+      "bedroom": "Chambre",
+      "dining": "Salle à manger",
+      "office": "Bureau"
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Nous sommes là pour répondre à toutes vos questions",
+    "form": {
+      "name": "Nom complet",
+      "email": "Email",
+      "phone": "Numéro de téléphone",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer le message",
+      "success": "Votre message a été envoyé avec succès! Nous vous répondrons bientôt.",
+      "error": "Une erreur s'est produite lors de l'envoi du message. Veuillez réessayer."
+    },
+    "info": {
+      "phone": "Téléphone",
+      "email": "Email",
+      "address": "Adresse",
+      "workingHours": "Heures d'ouverture"
+    }
+  },
+  "footer": {
+    "description": "Kiro Mobilier de Luxe - Nous concevons et fabriquons des meubles de luxe qui reflètent votre style unique",
+    "quickLinks": "Liens rapides",
+    "services": "Nos services",
+    "contact": "Contact",
+    "rights": "Tous droits réservés"
+  }
+}

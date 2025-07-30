@@ -1,0 +1,154 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "next": "Next",
+    "previous": "Previous",
+    "close": "Close",
+    "confirm": "Confirm"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+    "dashboard": "Dashboard"
+  },
+  "hero": {
+    "title": "Kiro Luxury Furniture",
+    "subtitle": "We design and manufacture luxury furniture that reflects your unique style",
+    "cta": "Explore Our Collection"
+  },
+  "about": {
+    "title": "About Us",
+    "description": "At Kiro Luxury Furniture, we believe that furniture is more than just decor pieces. It's a reflection of your personality and lifestyle. Since our inception, we have been committed to delivering the highest levels of quality and craftsmanship in every piece we create.",
+    "mission": "Our Mission",
+    "missionText": "To create luxury custom furniture that meets our clients' unique needs while maintaining the highest standards of quality and design.",
+    "vision": "Our Vision",
+    "visionText": "To be the premier destination for custom luxury furniture in the region, known for innovation, quality, and exceptional service."
+  },
+  "services": {
+    "title": "Our Services",
+    "design": {
+      "title": "Custom Design",
+      "description": "We design custom furniture that perfectly fits your space and style"
+    },
+    "manufacturing": {
+      "title": "High-Quality Manufacturing",
+      "description": "We use the best materials and techniques to ensure exceptional quality"
+    },
+    "installation": {
+      "title": "Professional Installation",
+      "description": "Our specialized team ensures perfect installation of every piece"
+    }
+  },
+  "projects": {
+    "title": "Our Projects",
+    "subtitle": "Explore our latest custom luxury furniture projects",
+    "viewAll": "View All Projects",
+    "viewDetails": "View Details",
+    "categories": {
+      "all": "All",
+      "living": "Living Room",
+      "bedroom": "Bedroom",
+      "dining": "Dining Room",
+      "office": "Office"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We're here to answer all your questions",
+    "form": {
+      "name": "Full Name",
+      "email": "Email",
+      "phone": "Phone Number",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Your message has been sent successfully! We'll get back to you soon.",
+      "error": "An error occurred while sending the message. Please try again."
+    },
+    "info": {
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Address",
+      "workingHours": "Working Hours"
+    }
+  },
+  "footer": {
+    "description": "Kiro Luxury Furniture - We design and manufacture luxury furniture that reflects your unique style",
+    "quickLinks": "Quick Links",
+    "services": "Our Services",
+    "contact": "Contact",
+    "rights": "All rights reserved"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "signIn": "Sign In",
+    "signingIn": "Signing In...",
+    "loginError": "Invalid email or password",
+    "forgotPassword": "Forgot password?",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign Up"
+  },
+  "projects": {
+    "title": "Our Projects",
+    "subtitle": "Explore our latest custom luxury furniture projects",
+    "viewAll": "View All Projects",
+    "viewDetails": "View Details",
+    "categories": {
+      "all": "All",
+      "living": "Living Room",
+      "bedroom": "Bedroom",
+      "dining": "Dining Room",
+      "office": "Office",
+      "outdoor": "Outdoor",
+      "custom": "Custom"
+    },
+    "styles": {
+      "modern": "Modern",
+      "traditional": "Traditional",
+      "minimalist": "Minimalist",
+      "rustic": "Rustic",
+      "luxury": "Luxury",
+      "industrial": "Industrial"
+    },
+    "woodTypes": {
+      "oak": "Oak",
+      "walnut": "Walnut",
+      "cherry": "Cherry",
+      "maple": "Maple",
+      "mahogany": "Mahogany",
+      "pine": "Pine",
+      "teak": "Teak"
+    },
+    "filters": "Filters",
+    "search": "Search",
+    "searchPlaceholder": "Search projects...",
+    "featured": "Featured",
+    "available": "Available",
+    "unavailable": "Unavailable",
+    "inquiries": "inquiries",
+    "noProjects": "No projects found",
+    "loadMore": "Load More",
+    "sort": {
+      "newest": "Newest",
+      "oldest": "Oldest",
+      "priceLow": "Price: Low to High",
+      "priceHigh": "Price: High to Low",
+      "popular": "Most Popular"
+    },
+    "addToWishlist": "Add to wishlist",
+    "removeFromWishlist": "Remove from wishlist"
+  }
+}
